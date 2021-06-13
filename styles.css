@@ -1,0 +1,33 @@
+body{
+  background-color: #0b1c3e;
+}
+tfoot td{
+  text-align: center;
+  color: white;
+  padding:4rem;
+}
+img{
+  height: 100px;
+  width:100px;
+}
+.head{
+  font-size: 7rem;
+  font-family: 'Lobster', cursive;
+  color: #2be4c0;
+  padding: 4rem;
+  margin: 0;
+}
+
+.word{
+  color: #2be4c0;
+  margin: 0;
+  font-family: cursive;
+}
+.foot{
+ font-family: cursive;
+}
+.author{
+  text-align: right;
+  color: purple;
+  font-family: verdana;
+}
